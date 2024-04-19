@@ -1,0 +1,62 @@
+age,major,college,gender,height,weight,time_working_out,1rm_dumbell,1rm_bench
+18,Business Administration,D'Amore-McKim School of Business,Female,5.17,170,3,25,25
+22,Mechanical Engineering and Design,College of Engineering,Female,5.42,133,48,22,60
+21,Finance & Data Science ,D'Amore-McKim School of Business,Female ,5.58,112,48,20,75
+21,Computer Science and Biology,Khoury College of Computer Sciences,Female,5.25,100,4,15,45
+21,Business Administration,D'Amore-McKim School of Business,Female,5.50,103,4,20,45
+20,Computer Science,Khoury College of Computer Sciences,Female,5.00,105,3,15,80
+21,Business Administration,D'Amore-McKim School of Business,Female,5.3,155,6,30,121
+18,Business Administration,D'Amore-McKim School of Business,Female,5.6,168,2,33,132
+17,Biology,College of Science,Female,5.2,124,3,23,97
+24,Journalism,"College of Arts, Media and Design",Female,5.4,145,1,24,112
+21,Nursing,Bouvé College of Health Sciences,Female,5.2,101,6,22,84
+19,Pharmaceutical Studies,Bouvé College of Health Sciences,Female,5.1,87,6,18,72
+18,Physics,College of Science,Female,5.3,97,3,26,75
+20,Civil Engineering,College of Engineering,Female,5.5,132,12,25,106
+21,Computer Engineering,College of Engineering,Female,5.2,116,15,27,87
+21,Cybersecurity,Khoury College of Computer Sciences,Female,5.3,94,3,27,78
+25,English,College of Social Sciences and Humanities,Female,5.1,99,18,21,77
+21,Human Services,College of Social Sciences and Humanities,Female,5.8,152,18,33,114
+20,Philosophy,College of Social Sciences and Humanities,Female,5.4,138,12,27,110
+21,Game Design,"College of Arts, Media and Design",Female,5.4,177,6,45,123
+23,Business Administration,D'Amore-McKim School of Business,Female,5.6,136,12,25,105
+21,Business Administration,D'Amore-McKim School of Business,Female,5.2,133,3,28,107
+20,Cell and Molecular Biology,College of Science,Female,5.4,104,10,22,84
+21,Biochemistry,College of Science,Female,5.9,84,12,28,70
+19,Biochemistry,College of Science,Female,5.3,89,8,28,72
+20,Biochemistry,College of Science,Female,5.3,116,6,28,98
+20,Biochemistry,College of Science,Female,5.0,115,12,31,96
+22,Theatre,"College of Arts, Media and Design",Female,5.7,130,6,29,102
+22,Theatre,"College of Arts, Media and Design",Female,5.0,135,12,30,108
+17,Theatre,"College of Arts, Media and Design",Female,5.6,115,8,26,92
+20,Theatre,"College of Arts, Media and Design",Female,5.4,122,3,27,95
+21,Theatre,"College of Arts, Media and Design",Female,5.5,131,12,25,103
+22,Theatre,"College of Arts, Media and Design",Female,5.4,149,24,35,108
+23,Theatre,"College of Arts, Media and Design",Female,5.3,162,12,40,119
+26,Public Health,Bouvé College of Health Sciences,Female,5.3,104,6,24,81
+21,Public Health,Bouvé College of Health Sciences,Female,5.3,101,6,24,81
+21,Public Health,Bouvé College of Health Sciences,Female,5.3,97,6,21,78
+18,Political Science,College of Social Sciences and Humanities,Female,5.3,80,3,14,68
+19,Political Science,College of Social Sciences and Humanities,Female,5.3,88,1,23,66
+21,Political Science,College of Social Sciences and Humanities,Female,5.6,136,1,27,108
+20,Political Science,College of Social Sciences and Humanities,Female,5.6,154,24,31,120
+19,Political Science,College of Social Sciences and Humanities,Female,5.3,123,12,30,88
+19,Political Science,College of Social Sciences and Humanities,Female,5.3,109,18,27,86
+20,Political Science,College of Social Sciences and Humanities,Female,5.1,87,24,22,71
+21,French,College of Social Sciences and Humanities,Female,5.3,156,12,32,124
+18,Spanish,College of Social Sciences and Humanities,Female,5.2,88,6,19,68
+23,Spanish,College of Social Sciences and Humanities,Female,5.6,139,18,31,110
+20,Music,"College of Arts, Media and Design",Female,5.1,130,3,35,106
+19,Music Technology,"College of Arts, Media and Design",Female,5.1,124,12,30,96
+21,Music Technology,"College of Arts, Media and Design",Female,5.1,88,6,23,70
+22,Music Technology,"College of Arts, Media and Design",Female,5.5,151,12,38,108
+21,Music Technology,"College of Arts, Media and Design",Female,5.5,142,18,31,114
+20,Pharmaceutical Sciences,Bouvé College of Health Sciences,Female,5.1,99,18,25,74
+23,Applied Physics,College of Science,Female,5.7,138,3,30,114
+21,Applied Physics,College of Science,Female,5.5,131,3,26,111
+22,Applied Physics,College of Science,Female,5.5,118,6,29,93
+23,Behavioral Neuroscience,College of Science,Female,5.2,135,12,24,105
+18,Behavioral Neuroscience,College of Science,Female,5.2,113,12,23,89
+20,Behavioral Neuroscience,College of Science,Female,5.2,103,12,23,79
+21,Behavioral Neuroscience,College of Science,Female,5.7,175,12,30,126
+23,Behavioral Neuroscience,College of Science,Female,5.6,118,12,20,91

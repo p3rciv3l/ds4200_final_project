@@ -1,0 +1,64 @@
+age,major,college,gender,height,weight,time_working_out,1rm_dumbell,1rm_bench
+24,Software Engineering Systems,Khoury College of Computer Sciences,Male,5.58,156,24,30,95
+19,Computer Science and Game Development,Khoury College of Computer Sciences,Male ,5.58,165,18,100,160
+20,Data Science and Math ,Khoury College of Computer Sciences,Male ,5.08,160,24,40,200
+21,Data Science and Math ,Khoury College of Computer Sciences,Male,6.17,200,30,35,200
+21,Marketing and Communications,D'Amore-McKim School of Business,Male,5.75,160,24,50,215
+19,Computer Science and Business,D'Amore-McKim School of Business,Male,5.08,180,30,60,285
+21,Mechanical Engineering,College of Engineering,Male ,5.08,175,27,75,235
+23,Software Engineering ,Khoury College of Computer Sciences,Male,6.08,176,1,20,30
+25,Chemical Engineering ,College of Engineering,Male,6.33,200,2,40,130
+20,Political Science,College of Social Sciences and Humanities,Male,6.17,145,0,35,50
+27,Architecture,"College of Arts, Media and Design",Male,5.08,165,6,50,70
+21,Biochemistry and Data Science ,College of Science,Male,5.75,185,48,40,225
+19,Computer Science ,Khoury College of Computer Sciences,Male,6.17,182,9,25,60
+19,Computer Science ,Khoury College of Computer Sciences,Male,5.08,135,1,25,95
+19,Computer Science and Economics,Khoury College of Computer Sciences,Male,5.75,160,24,50,205
+18,Computer Science,Khoury College of Computer Sciences,Male,5.67,152,12,50,225
+18,Business Administration,D'Amore-McKim School of Business,Male,5.50,123,4,25,125
+19,Computer Science and Math,Khoury College of Computer Sciences,Male,5.33,125,4,35,110
+20,Behavioral Neuroscience,College of Science,Male,6.1,128,36,46,147
+19,Behavioral Neuroscience,College of Science,Male,5.8,133,24,44,155
+17,Architecture,"College of Arts, Media and Design",Male,6.0,170,6,55,206
+23,Architecture,"College of Arts, Media and Design",Male,5.6,106,36,35,121
+22,Architecture,"College of Arts, Media and Design",Male,5.8,112,18,35,130
+29,Architecture,"College of Arts, Media and Design",Male,5.9,152,18,52,189
+18,Architecture,"College of Arts, Media and Design",Male,5.5,177,12,55,216
+18,Mathematics,College of Science,Male,5.8,165,24,54,203
+20,Mathematics,College of Science,Male,6.0,194,36,50,237
+24,Mathematics,College of Science,Male,6.0,147,12,39,174
+19,Mathematics,College of Science,Male,5.8,170,48,44,202
+20,Mathematics,College of Science,Male,6.0,188,12,57,232
+25,Mathematics,College of Science,Male,5.8,151,12,49,183
+23,Mathematics,College of Science,Male,5.9,168,18,60,208
+23,Computer Science,Khoury College of Computer Sciences,Male,5.9,151,12,50,180
+21,Computer Science,Khoury College of Computer Sciences,Male,5.9,200,6,57,251
+19,Computer Science,Khoury College of Computer Sciences,Male,6.1,161,18,40,194
+19,Computer Science,Khoury College of Computer Sciences,Male,6.0,167,12,59,202
+20,Computer Science,Khoury College of Computer Sciences,Male,5.9,114,6,38,128
+21,Computer Science,Khoury College of Computer Sciences,Male,5.9,137,6,48,160
+19,Computer Science,Khoury College of Computer Sciences,Male,5.6,165,18,52,207
+21,Computer Science,Khoury College of Computer Sciences,Male,5.8,118,18,40,136
+22,Computer Science,Khoury College of Computer Sciences,Male,6.3,182,12,52,220
+20,Computer Science,Khoury College of Computer Sciences,Male,6.4,175,24,50,224
+25,Computer Science,Khoury College of Computer Sciences,Male,5.9,174,12,55,210
+25,Data Science,Khoury College of Computer Sciences,Male,5.7,147,24,51,184
+24,Data Science,Khoury College of Computer Sciences,Male,5.8,194,12,51,238
+20,Data Science,Khoury College of Computer Sciences,Male,6.3,192,18,61,248
+21,Data Science,Khoury College of Computer Sciences,Male,5.8,192,12,60,237
+19,Business Administration,D'Amore-McKim School of Business,Male,5.8,141,18,43,169
+19,Business Administration,D'Amore-McKim School of Business,Male,5.4,127,12,41,147
+18,Business Administration,D'Amore-McKim School of Business,Male,5.7,157,12,42,188
+20,Business Administration,D'Amore-McKim School of Business,Male,5.5,140,18,43,170
+21,Business Administration,D'Amore-McKim School of Business,Male,5.8,168,24,67,199
+24,Business Administration,D'Amore-McKim School of Business,Male,6.0,162,24,60,192
+22,Business Administration,D'Amore-McKim School of Business,Male,5.8,142,36,43,168
+19,Philosophy,College of Social Sciences and Humanities,Male,6.0,112,48,36,123
+21,Philosophy,College of Social Sciences and Humanities,Male,6.0,181,12,65,220
+20,Philosophy,College of Social Sciences and Humanities,Male,5.7,133,24,37,156
+23,Pharmacy,Bouvé College of Health Sciences,Male,6.1,170,36,44,215
+20,Pharmacy,Bouvé College of Health Sciences,Male,5.7,179,24,59,221
+22,"Politics, Philosophy, Economics",College of Social Sciences and Humanities,Male,5.8,181,12,47,228
+24,Pharmacy,Bouvé College of Health Sciences,Male,6.0,146,36,47,185
+21,"Politics, Philosophy, Economics",College of Social Sciences and Humanities,Male,6.0,173,24,43,210
+17,"Politics, Philosophy, Economics",College of Social Sciences and Humanities,Male,5.8,150,24,40,181
